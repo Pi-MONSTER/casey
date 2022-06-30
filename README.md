@@ -1,5 +1,5 @@
 # casey
-commandline tool to convert a word, full line of lowercase or mixed case text to UPPERCASE
+commandline tool to convert a word or full line of lowercase/mixedcase text to UPPERCASE
 
 
 #### HOWTO
